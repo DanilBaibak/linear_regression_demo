@@ -1,4 +1,4 @@
-# linear_regression_demo
+# Linear regression demo
 This is the code for "How to Make a Prediction - Intro to Deep Learning #1' by Siraj Raval on YouTube
 
 ##Overview
@@ -17,6 +17,8 @@ in terminal to install the necessary dependencies. Here is a link to [pip](https
 ##Usage
 
 Type `python demo.py` into terminal and you'll see the scatter plot and line of best fit appear.
+
+In The file `linear_model.ipynb` you can find example of defining the best parameters for linear regression.
 
 ##Challenge
 
